@@ -6,6 +6,7 @@
 </h1>
 
 * [Hercules Telegram](https://t.me/HerculesNode)
+* [Notitia Telegram](https://t.me/NotitiaGroup)
 * [Hercules Twitter](https://twitter.com/Hercules4413)
 
 ## Açıklama
