@@ -14,8 +14,6 @@ Goracle Teşvikli Testnet katılımı yapaacağız. ilk olarak Görevler var bun
 
 <br>
 
-
-
 #### 🟢 1. işlem
 
 [Algo Wallet ](https://wallet.myalgo.com/) kurun. Testnet ağını seçin. Cüzdan adresinizi kopyalayın. 
@@ -39,6 +37,21 @@ Goracle Teşvikli Testnet katılımı yapaacağız. ilk olarak Görevler var bun
 Görevleri tamamlayın. Yapabildiğiniz kadarını yapın puan kazanın. 
 
 ![image](https://user-images.githubusercontent.com/101635385/215124937-98a60694-b13c-42f8-98f9-08905238bff6.png)
+
+1.Görev:
+Portala giriş yaparak puanlarınızı kontrol edin
+
+2.Görev: Uygulama önerilerinde bulunmak. Yapacağınız her bir öneri 10 puan değerinde olacak. Yalnızca gerçekten uygulanabilir olan ve orijinal olan fikirlerin puan alacağını unutmayınız. Herkes en fazla 10 öneride bulunabilir.
+
+3.Görev: Birden fazla dil konuşabiliyorsanız hangi dilleri konuşabildiğinizi forma yazın ve gönderin. Bu görevden kazanacağınız puanlar her çeviri başına 30 puan olacak şekilde hesaplanacaktır. Formu doldurup gönderdikten sonra ekip size mail yoluyla metinler gönderecek ve kendi dilinize çevirmenizi isteyecektir. Çeviri yaptığınız her metin için 30 puan alacaksınız!
+
+4.Görev: Bir YouTube videosu oluşturun (300 Puan)
+
+Yaratıcı MEME oluşturun ve bunu Goracle Network Discord sunucusundaki #memes kanalında paylaşın. Oluşturulan her MEME için 10 puan kazanılacaktır. En fazla 3 adet MEME oluşturulabilir.
+
+Goracle Network hakkında kendi dilinizde bir blog yazısı oluşturabilirsiniz. Bu sayede 300 puan kazanabilirsiniz.
+
+Şehrinizdeki bir mekana ait görselde Goracle logosu ile bir fotoğraf oluşturarak bu fotoğrafı Goracle Network Discord sunucusundaki #photos kanalında paylaşabilirsiniz. Bu çalışma sayesinde 100 puan kazanabilirsiniz.
 
 #### 🟢 6. işlem
 
